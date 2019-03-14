@@ -2,8 +2,8 @@
 title: GoogleTranslate.Chrome.Plug
 data: 2019-03-14 12:23:56
 tags: 
-	- GoogleTranslate
-	- Chrome plugs
+    - GoogleTranslate
+    - Chrome plugs
 ---
 
 ## GoogleTranslate.Chrome.Plug description
